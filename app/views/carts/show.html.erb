@@ -5,6 +5,7 @@
   </header>
       <% if cart.empty? %>
         <div class="alert alert-danger" role="alert">Your cart is empty, please head back to: <%= link_to 'Home', :root %> </div>
+      <% else %> 
   <div class="panel panel-default items">
     <table class="table table-bordered">
       <thead>
@@ -16,10 +17,9 @@
         </tr>
       </thead>
       <tbody>
-      <% else %>
+
         <% enhanced_cart.each do |item| %>
           <%= render 'item', product: item[:product], quantity: item[:quantity].to_i %>
-        <% end %>
         <% end %>
       </tbody>
       <tfoot>
@@ -51,5 +51,6 @@
       <% end %>
     </div>
   </div>
+        <% end %>
 
 </section>
