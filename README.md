@@ -8,10 +8,16 @@ and putting my skills as a developer to the test.
 
 ## Images
 ### User
-
+#### Home
+![image](https://user-images.githubusercontent.com/64753034/142506265-04df5922-77d5-455b-a4f8-9f34e06e606d.png)
+#### Cart
+![image](https://user-images.githubusercontent.com/64753034/142506242-fec1be6a-1294-470f-8b6f-8bcbd9948b13.png)
 ### Admin
+#### Home
+![image](https://user-images.githubusercontent.com/64753034/142506325-7dd1a9fe-0255-44cc-a0c8-ec8b26602d5f.png)
+#### Admin-products
+![image](https://user-images.githubusercontent.com/64753034/142506375-fe7150e7-3cdf-4950-b901-81879d769ad3.png)
 
-https://github.com/wagabooga/jungle/blob/master/images/MyCart.png?raw=true
 ## Setup
 
 1. Run `bundle install` to install dependencies
