@@ -7,8 +7,11 @@ This project was meant to demonstrate the workflow of being a developer in a wor
 and putting my skills as a developer to the test.
 
 ## Images
+### User
 
+### Admin
 
+https://github.com/wagabooga/jungle/blob/master/images/MyCart.png?raw=true
 ## Setup
 
 1. Run `bundle install` to install dependencies
