@@ -6,6 +6,9 @@ As a student of LHL I worked on implimenting many features, bug fixes, and testi
 This project was meant to demonstrate the workflow of being a developer in a work-environment, learning and gathering experience towards a new language
 and putting my skills as a developer to the test.
 
+## Images
+
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
@@ -16,6 +19,7 @@ and putting my skills as a developer to the test.
 6. Sign up for a Stripe account
 7. Put Stripe (test) keys into appropriate .env vars
 8. Run `bin/rails s -b 0.0.0.0` to start the server
+
 ### Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
@@ -26,8 +30,6 @@ and putting my skills as a developer to the test.
 ## Stripe Testing
 
 Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
-
-More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Dependencies
 
