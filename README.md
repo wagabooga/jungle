@@ -14,7 +14,7 @@ and putting my skills as a developer to the test.
 ![image](https://user-images.githubusercontent.com/64753034/142506242-fec1be6a-1294-470f-8b6f-8bcbd9948b13.png)
 ### Admin
 #### Home
-![image](https://user-images.githubusercontent.com/64753034/142506325-7dd1a9fe-0255-44cc-a0c8-ec8b26602d5f.png)
+![image](https://user-images.githubusercontent.com/64753034/142506895-99c29e3b-abca-4e66-b310-6aeb4f6f874a.png)
 #### Admin-products
 ![image](https://user-images.githubusercontent.com/64753034/142506375-fe7150e7-3cdf-4950-b901-81879d769ad3.png)
 
